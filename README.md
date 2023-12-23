@@ -12,27 +12,43 @@ Ensure you have the following installed:
 ### Project Folder
 1. Open a terminal
 2. Clone the project using the command:
-    - git clone https://github.com/Abhishek-atk/vidyalai-task.git
-    - cd vidyalai-task
-
+```bash
+git clone https://github.com/Abhishek-atk/vidyalai-task.git
+cd vidyalai-task
+```
 ### Frontend (React)
 1. Navigate to the 'frontend' folder:
-    - cd frontend
+```bash
+cd frontend
+```    
 2. Install all dependency:
-    - npm install    
+```bash
+npm install
+```
 3. Run React using:
-    - npm run dev
+```bash
+npm run dev
+```
 
 ### Backend (Node.js)
 1. Open a new terminal
 2. Navigate to project folder:
-    - cd vidyalai-task
+```bash 
+cd vidyalai-task
+```        
 3. Navigate to the 'backend' folder:
-    - cd backend   
-4. Install all dependency:    
-    - npm install
+
+```bash 
+cd backend   
+```
+4. Install all dependency:   
+```bash 
+npm install
+``` 
 5. Run Node using:
-    - npm start
+```bash 
+npm start
+```
 
 ### Browser
 1. Run locally:
@@ -40,3 +56,11 @@ Ensure you have the following installed:
     
 2. Live Link:
    - https://abhishek-atk-vidyalai-task.netlify.app/
+      
+### Info
+1. During the login, you can use the following credentials:
+    -Email: user@gmail.com
+    -Password: user@1234
+    OR, you can create a new account.
+
+2. In the hosted project, there is an issue with uploading PDF files, but when running the project locally, PDF uploads work fine.
