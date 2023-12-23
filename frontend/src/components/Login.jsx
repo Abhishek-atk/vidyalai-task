@@ -38,7 +38,6 @@ function Login() {
     axios
       .post("http://localhost:4000/login", { userData })
       .then((res) => {
-        console.log(res.data);
         if (res.data.login) {
           Cookies.set("token", res.data.token, {
             expires: 7,
