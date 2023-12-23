@@ -39,4 +39,4 @@ Ensure you have the following installed:
    - http://localhost:5173
     
 2. Live Link:
-   - http://Abhishek-atk.github.io/react-vidyalai-task
+   - https://abhishek-atk-vidyalai-task.netlify.app/
