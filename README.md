@@ -33,4 +33,4 @@ Ensure you have the following installed:
     http://localhost:5173
     
 2. Live Link:
-    https://github.com/Abhishek-atk/vidyalai-task.git
+    http://Abhishek-atk.github.io/react-vidyalai-task
